@@ -55,7 +55,7 @@ Wow!
 
 ## Image
 
-![Image](/img/soon.jpg)
+![Image](/assets/images/soon.jpg)
 
 ## Inline Code
 
