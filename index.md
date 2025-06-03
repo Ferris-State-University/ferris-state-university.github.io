@@ -1,5 +1,3 @@
-# Ferris State University's Web Team
-
 ## About
 
 While there is nothing "official" about this, it was started June 3, 2025, by Paul Hobart, a web developer at [Ferris State University](https://www.ferris.edu/). It is what it is.
