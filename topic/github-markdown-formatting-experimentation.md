@@ -1,5 +1,8 @@
 # GitHub Markdown Formatting Experimentation
 
+Paul Hobart  
+*Tue Jun 3 2025*
+
 # Heading 1
 
 ## Heading 2
