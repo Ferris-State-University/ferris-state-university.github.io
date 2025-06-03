@@ -8,4 +8,4 @@ Here are some tech notes about topics that have helped us. Hopefully you find th
 
 - [GitHub Markdown Formatting Experimentation](topic/github-markdown-formatting-experimentation.md)
 
-Is this red and bold?
+Is this red and bold? Did it compile my SCSS?
